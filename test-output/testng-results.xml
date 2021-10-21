@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T16:53:52Z" name="Default suite" finished-at="2021-10-21T16:54:11Z" duration-ms="18889">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T16:53:52Z" name="Default test" finished-at="2021-10-21T16:54:11Z" duration-ms="18889">
+      <class name="org.filpkart.Filpkart">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.filpkart.Filpkart@1ab06251]" started-at="2021-10-21T22:23:52Z" name="beforeClass" finished-at="2021-10-21T22:23:54Z" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.filpkart.Filpkart@1ab06251]" started-at="2021-10-21T22:23:54Z" name="beforeMethod" finished-at="2021-10-21T22:23:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:org.filpkart.Filpkart@1ab06251]" started-at="2021-10-21T22:23:54Z" name="test1" finished-at="2021-10-21T22:24:10Z" duration-ms="16156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.filpkart.Filpkart@1ab06251]" started-at="2021-10-21T22:24:10Z" name="afterMethod" finished-at="2021-10-21T22:24:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:org.filpkart.Filpkart@1ab06251]" started-at="2021-10-21T22:24:10Z" name="afterClass" finished-at="2021-10-21T22:24:11Z" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.filpkart.Filpkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
